@@ -21,6 +21,6 @@ elif nilai >= 65:
 elif nilai >= 60:
     print('Halo,', nama_siswa, '!' , 'Nilai Anda setelah dikonversi adalah C')
 else:
-    pass
+    print('Halo,', nama_siswa, '!', 'Nilai Anda setelah dikonversi adalah E')
 print()
 
